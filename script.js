@@ -32,3 +32,12 @@ function saveMadlib() {
 db.collection("madlibs").doc(storyData.storyName).set(storyData);
   alert(storyData.storyName + " saved to database");
 }
+
+
+
+
+
+
+
+
+
